@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+#Protection
+.env
+
+f1_cache/
+
 # Distribution / packaging
 .Python
 build/
